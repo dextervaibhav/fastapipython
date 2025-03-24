@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello, World! This is my first FastAPI app on Render."}
+    return {"message": "Website will be developed soon."}
